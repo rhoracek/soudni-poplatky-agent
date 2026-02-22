@@ -1,0 +1,12 @@
+{
+  "name": "poplatky-agent",
+  "version": "1.0.0",
+  "description": "Poplatkovy agent - Mestsky soud v Praze",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
